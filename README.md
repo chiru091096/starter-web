@@ -8,3 +8,4 @@ Sample website with plenty of files for demos
 
 ##Description
 1. Added to staging area
+2. Added in working directory
